@@ -13,6 +13,6 @@ Links and descriptions of Javascript Libraries for my students
 | Flat UI | http://designmodo.github.io/Flat-UI/ | https://github.com/designmodo/Flat-UI | bootstrap with a stylish theme |
 
 
-Buttons
+## Buttons
 http://lab.hakim.se/ladda/
 
