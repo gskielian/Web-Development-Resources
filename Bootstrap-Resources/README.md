@@ -5,3 +5,4 @@ Please report broken links by submitting a "bug-fix" using the issues icon (!) o
 | Resource | Description |
 |:---: | :---: |
 | http://bootstraptour.com/ | allows you to create a tour of your app or web-page |
+| http://harvesthq.github.io/chosen/ | a needed upgrade to the bootstrap dropdown and search components |
