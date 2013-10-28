@@ -13,11 +13,6 @@ Links and descriptions of Javascript Libraries for my students
 | Flat UI | http://designmodo.github.io/Flat-UI/ | https://github.com/designmodo/Flat-UI | bootstrap with a stylish theme |
 | Bootstrap Templates | http://startbootstrap.com/all-templates |http://startbootstrap.com/ | great templates |
 | Foundation | http://foundation.zurb.com/ | http://foundation.zurb.com/ | another responsive template |
-## Buttons
-| Resource | Description | 
-| :---: | :---: |
-| http://lab.hakim.se/ladda/ | github repo with well-styled buttons |
-| http://bootsnipp.com/      | web-app for creating html for a bootstrap button | 
 
 
 ## CSS3 
