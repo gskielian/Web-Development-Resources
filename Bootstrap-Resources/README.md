@@ -10,3 +10,5 @@ Please report broken links by submitting a "bug-fix" using the issues icon (!) o
 |http://blueimp.github.io/jQuery-File-Upload/ | File Upload | 
 | http://clu3.github.io/bootstro.js/|  a bootstrap toggle-switch **perfect for mobile** |
 | http://charliepark.org/bootstrap_buttons/ | bootstrap button appearance adjuster |
+| http://lab.hakim.se/ladda/ | github repo with well-styled buttons |
+| http://bootsnipp.com/      | web-app for creating html for a bootstrap button | 
