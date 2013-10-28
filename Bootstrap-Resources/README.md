@@ -8,3 +8,4 @@ Please report broken links by submitting a "bug-fix" using the issues icon (!) o
 | http://clu3.github.io/bootstro.js/ | option 2 for creating a tour, with highlighting |
 | http://harvesthq.github.io/chosen/ | a needed upgrade to the bootstrap dropdown and search components |
 |http://blueimp.github.io/jQuery-File-Upload/ | File Upload | 
+| http://clu3.github.io/bootstro.js/|  a bootstrap toggle-switch **perfect for mobile** |
