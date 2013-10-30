@@ -1,6 +1,6 @@
-###Icons?
+###Icons
 
-That's right, it's important
+It adds a professional feel.
 
 
 | Icon Library | Link | Description |
