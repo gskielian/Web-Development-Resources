@@ -1,9 +1,9 @@
 Icons
 =====
 
-It adds a professional feel.
+Adding a professional feel.
 
-
+### Table
 | Icon Library | Link | Description |
 | :---:        | :---:| :--- |
 | Ionicons | [link](http://ionicons.com/) | open-source font-library |
