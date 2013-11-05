@@ -3,6 +3,8 @@ Icons
 
 Adding a professional feel.
 
+** New From Hacker News ** 
+Use [glyphsearch.com](http://glyphsearch.com) to help you search for that perfect icon.
 
 ### Many Options
 | Icon Library | Link | Description |
