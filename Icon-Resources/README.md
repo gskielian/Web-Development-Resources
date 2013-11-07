@@ -13,4 +13,5 @@ Use [glyphsearch.com](http://glyphsearch.com) to help you search for that perfec
 | Simple-icons | [link](https://github.com/danleech/simple-icons) | another great free icon library |
 | Font-Awesome | [link](http://fortawesome.github.io/Font-Awesome/) | Built-for-Bootstrap |
 | Glyphicons | [link](http://glyphicons.com/) | Default in Bootstrap |
+| Weather Icons | [link](http://bugs.openweathermap.org/projects/api/wiki/Weather_Condition_Codes) | Weather Icons from OpenWeatherMap |
 
