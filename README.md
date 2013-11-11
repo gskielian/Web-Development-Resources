@@ -7,7 +7,7 @@ Links and descriptions of Javascript Libraries for my students
 
 ## Free Bootstrap Templates
 
-| The Framework | examples | github page| short description |
+| Developer | examples | github page| short description |
 | :--- | :---: | :---: | :--- |
 | Flat UI | [link](https://github.com/designmodo/Flat-UI) | [example](http://designmodo.github.io/Flat-UI/) | bootstrap with a stylish theme |
 | Start Bootstrap |  [link](http://startbootstrap.com/) | [example](http://startbootstrap.com/all-templates) | great templates |
@@ -15,7 +15,8 @@ Links and descriptions of Javascript Libraries for my students
 | Twitter Bootstrap |  [link](https://github.com/twbs/bootstrap) | [example](http://getbootstrap.com/getting-started/) | some basic bootstrap templates from twitter |
 
 ## Foundation Templates
-
+| Developer | examples | github page| short description |
+| :--- | :---: | :---: | :--- |
 | Foundation | [example](http://foundation.zurb.com/) | [link](http://foundation.zurb.com/) | another responsive template |
 ## CSS3 
 
