@@ -7,8 +7,8 @@ Links and descriptions of Javascript Libraries for my students
 
 ## Free Bootstrap Templates
 
-| The Framework | examples | github page| descript |
-| :--- | :---: | :---: | :---: |  ---: |
+| The Framework | examples | github page| short description |
+| :--- | :---: | :---: | :---: |  :--- |
 | Flat UI | [link](https://github.com/designmodo/Flat-UI) | [example](http://designmodo.github.io/Flat-UI/) | bootstrap with a stylish theme |
 | Start Bootstrap |  [link](http://startbootstrap.com/) | [example](http://startbootstrap.com/all-templates) | great templates |
 | Black-Tie | [link](http://www.blacktie.co/) | [examples](http://www.blacktie.co/) | really flashy bootstrap templates -- take a look! |
