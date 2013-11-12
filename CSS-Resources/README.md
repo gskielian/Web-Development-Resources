@@ -14,7 +14,7 @@ Make an awesome website.
 
 -------------------------
 
-### Tutorials on Common Topics
+### Common Topics
 
 | SiteName | short description | link |
 | :--- | :---: | ---: |
