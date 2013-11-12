@@ -1,7 +1,6 @@
+## Resources
 
-
-
-Resources
+Make your site keep it's professional feel, and maintain the interest of visitors by keeping things running chipper.
 
 | Name  | Summary | link | 
 | :--- | :---:  | ---: | 
