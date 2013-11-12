@@ -3,16 +3,18 @@ Style Means
 
 Make an awesome website.
 
+-------------------------
 
-## Backgrounds
+### Backgrounds
 
 | SiteName | short description | link |
 | :--- | :---: | ---: |
 | Design Instruct | Free backgrounds for css | [link](http://designinstruct.com/category/free-resources/) |
 | SubtlePatterns | subtle Backgrounds for your website | [link](http://subtlepatterns.com/)|
 
+-------------------------
 
-## Tutorials on Common Topics
+### Tutorials on Common Topics
 
 | SiteName | short description | link |
 | :--- | :---: | ---: |
