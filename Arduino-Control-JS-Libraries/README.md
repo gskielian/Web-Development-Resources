@@ -9,5 +9,5 @@ Here is a list of the libraries which seem legit:
 ## Table
 
 | Short Description | link |
-| :--- |  :---: |
+| :--- |  :--- |
 | Node Websockets Implementation Featured on Hackernews | http://semu.github.io/noduino/ |
