@@ -9,7 +9,7 @@ Use [glyphsearch.com](http://glyphsearch.com) to help you search for that perfec
 ### Many Options
 | Icon Library | Link | Description |
 | :---:        | :---:| :--- |
-| Free Vector Icons | [link](http://ikons.piotrkwiatkowski.co.uk/) | free vector icons |
+| Ikons | [link](http://ikons.piotrkwiatkowski.co.uk/) | free vector icons |
 | Ionicons | [link](http://ionicons.com/) | open-source font-library |
 | Simple-icons | [link](https://github.com/danleech/simple-icons) | another great free icon library |
 | Font-Awesome | [link](http://fortawesome.github.io/Font-Awesome/) | Built-for-Bootstrap |
