@@ -9,10 +9,11 @@ Links and descriptions of Javascript Libraries for my students
 
 | Developer | examples | github page| short description |
 | :--- | :---: | :---: | :--- |
-| Flat UI | [link](https://github.com/designmodo/Flat-UI) | [example](http://designmodo.github.io/Flat-UI/) | bootstrap with a stylish theme |
-| Start Bootstrap |  [link](http://startbootstrap.com/) | [example](http://startbootstrap.com/all-templates) | great templates |
-| Black-Tie | [link](http://www.blacktie.co/) | [examples](http://www.blacktie.co/) | really flashy bootstrap templates -- take a look! |
-| Twitter Bootstrap |  [link](https://github.com/twbs/bootstrap) | [example](http://getbootstrap.com/getting-started/) | some basic bootstrap templates from twitter |
+| Flat UI | [example](http://designmodo.github.io/Flat-UI/) | [link](https://github.com/designmodo/Flat-UI) | bootstrap with a stylish theme |
+| Start Bootstrap |  [example](http://startbootstrap.com/all-templates) | [link](http://startbootstrap.com/) | great templates |
+| Black-Tie | [examples](http://www.blacktie.co/) | [link](http://www.blacktie.co/) |  really flashy bootstrap templates -- take a look! |
+| Twitter Bootstrap | [example](http://getbootstrap.com/getting-started/) | 
+ [link](https://github.com/twbs/bootstrap) | some basic bootstrap templates from twitter |
 
 
 ## Foundation Templates
