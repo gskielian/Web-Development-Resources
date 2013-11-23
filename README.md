@@ -12,8 +12,7 @@ Links and descriptions of Javascript Libraries for my students
 | Flat UI | [example](http://designmodo.github.io/Flat-UI/) | [link](https://github.com/designmodo/Flat-UI) | bootstrap with a stylish theme |
 | Start Bootstrap |  [example](http://startbootstrap.com/all-templates) | [link](http://startbootstrap.com/) | great templates |
 | Black-Tie | [examples](http://www.blacktie.co/) | [link](http://www.blacktie.co/) |  really flashy bootstrap templates -- take a look! |
-| Twitter Bootstrap | [example](http://getbootstrap.com/getting-started/) | 
- [link](https://github.com/twbs/bootstrap) | some basic bootstrap templates from twitter |
+| Twitter Bootstrap | [example](http://getbootstrap.com/getting-started/) | [link](https://github.com/twbs/bootstrap) | some basic bootstrap templates from twitter |
 
 
 ## Foundation Templates
