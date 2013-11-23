@@ -19,7 +19,7 @@ Make an awesome website.
 | SiteName | short description | link |
 | :--- | :---: | ---: |
 | Color-hex | analysis of each css color and specific examples of its usage | [link](http://www.color-hex.com/color/99f893) | 
-
+| ColorZilla | Chrome && Firefox Extension allowing picking of colors from a website and much more | [link](http://www.colorzilla.com/) |
 --------------------------
 
 
