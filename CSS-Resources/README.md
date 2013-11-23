@@ -14,6 +14,12 @@ Make an awesome website.
 
 -------------------------
 
+### Color Pickers 
+
+| SiteName | short description | link |
+| :--- | :---: | ---: |
+| Color-hex | analysis of each css color and specific examples of its usage | [link](http://www.color-hex.com/color/99f893) | 
+
 ### Common Topics
 
 | SiteName | short description | link |
