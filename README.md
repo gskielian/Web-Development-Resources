@@ -1,7 +1,9 @@
 Web-Development-Resources
 =========================
 
-Links and descriptions of Javascript Libraries for my students
+I use this repository for compiling lists of free-and-open-source resources for my webdesign students.
+
+Below are some great templates/starting-points for web-design.
 
 
 
