@@ -3,7 +3,7 @@ Web-Development-Resources
 
 I use this repository for compiling lists of free-and-open-source resources for my webdesign students.
 
-Below are some great templates/starting-points for web-design.
+Below are some great templates/starting-points to _bootstrap_ your own site.
 
 
 
