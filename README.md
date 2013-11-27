@@ -10,9 +10,9 @@ Links and descriptions of Javascript Libraries for my students
 | Developer | examples | github page| short description |
 | :--- | :---: | :---: | :--- |
 | Flat UI | [example](http://designmodo.github.io/Flat-UI/) | [link](https://github.com/designmodo/Flat-UI) | bootstrap with a stylish theme |
-| Start Bootstrap |  [example](http://startbootstrap.com/all-templates) | [link](http://startbootstrap.com/) | great templates |
+| Start Bootstrap |  [examples](http://startbootstrap.com/all-templates) | [link](http://startbootstrap.com/) | great templates |
 | Black-Tie | [examples](http://www.blacktie.co/) | [link](http://www.blacktie.co/) |  really flashy bootstrap templates -- take a look! |
-| Twitter Bootstrap | [example](http://getbootstrap.com/getting-started/) | [link](https://github.com/twbs/bootstrap) | some basic bootstrap templates from twitter |
+| Twitter Bootstrap | [examples](http://getbootstrap.com/getting-started/) | [link](https://github.com/twbs/bootstrap) | some basic bootstrap templates from twitter |
 
 
 ## Foundation Templates
@@ -22,6 +22,7 @@ Links and descriptions of Javascript Libraries for my students
 ## Ionic Templates
 
 | Developer | examples | github page | short description |
+| :--- | :---: | :---: | :--- |
 | Ionic | [link](http://ionicframework.com/examples/) | [link](https://github.com/driftyco/ionic) | html5 + angular framework |  
 
 
