@@ -9,4 +9,5 @@ So you created a responsive website, now you actually have to check that it work
 
 | Name        |  link |
 | :---        | :---: |
+| Responsinator | [link](http://responsinator.com/) |
 | Mattkersley | [link](http://mattkersley.com/responsive/?gskielian.github.io/optifold/) |
