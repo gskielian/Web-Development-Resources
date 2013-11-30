@@ -15,4 +15,5 @@ Please report broken links by submitting a "bug-fix" using the issues icon (!) o
 | Button Customizer | http://charliepark.org/bootstrap_buttons/ | bootstrap button appearance adjuster |
 | Button Customizer |http://bootsnipp.com/buttons    | web-app for creating html for a bootstrap button | 
 | Waiting Buttons | http://lab.hakim.se/ladda/ | github repo with well-styled buttons |
-| Lots of different user interface plugins | http://exacttarget.github.io/fuelux/ | lots of cool bootstrap plugins! | 
+| Wizard.js | http://exacttarget.github.io/fuelux/ | Progress Bar Really useful for multistep pages| 
+| Light-Box | http://jbutz.github.io/bootstrap-lightbox/ | Light-Box Plugin based on Bootstrap's Modals |
