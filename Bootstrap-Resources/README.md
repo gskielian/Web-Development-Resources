@@ -18,3 +18,4 @@ Please report broken links by submitting a "bug-fix" using the issues icon (!) o
 | Wizard.js | http://exacttarget.github.io/fuelux/ | Progress Bar Really useful for multistep pages| 
 | Light-Box | http://jbutz.github.io/bootstrap-lightbox/ | Light-Box Plugin based on Bootstrap's Modals |
 | Another Light-Box| http://wolfslittlestore.be/jquery.bootstrap.simple.lightbox/| Another Lightbox with an "x" on top-right |
+| Bootstrap image gallery | http://blueimp.github.io/Bootstrap-Image-Gallery/ | An Image Gallery | 
