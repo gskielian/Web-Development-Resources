@@ -6,19 +6,19 @@ I use this repository for compiling lists of free-and-open-source resources for 
 
 ---
 
-## Goals
+### Goals
 
 The aim is to provide an organized list of apropos FOSS resources, for getting beginning and novice web-developers's sites on their feet.
 
 ---
 
-## Usage
+### Usage
 
-### 01-Tutorial-Website-Creation-Workflow
+#### 01-Tutorial-Website-Creation-Workflow
 
 * The first sequence [01-Tutorial-Website-Creation-Workflows](01-Tutorial-Website-Creation-Workflows) aims to provide all the tools for creating a professional business site or blog.
 
-### 02-Optimization_Loading-Speed-and-SEO
+#### 02-Optimization_Loading-Speed-and-SEO
 
 * The second sequence [02-Optimization_Loading-Speed-and-SEO](02-Optimization_Loading-Speed-and-SEO) will show how to optimize your site and SEO once it is created.
 
