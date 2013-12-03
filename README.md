@@ -7,7 +7,7 @@ Web-Development-Resources
 
 ---
 
-### Usage
+### Usage:
 
 #### 01-Tutorial-Website-Creation-Workflow
 
