@@ -1,7 +1,7 @@
 In this folder, find resources which are fundamental for making most websites:
 
 
-## Creating a Business Website
+## Creating a Business Website in 10 easy steps!
 
 Guide to making a professional website which is mobile-tablet-desktop viewable quickly and with FOSS:
 
