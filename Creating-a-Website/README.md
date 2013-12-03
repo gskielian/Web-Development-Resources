@@ -5,9 +5,13 @@ This is a work in organizing the web-dev-resources for logical development strat
 In Progress:
 
 [ ] finish remaining steps
+
 [ ] step 5
+
 [ ] step 6
+
 [ ] step 7 
+
 [ ] step 10
 
 
