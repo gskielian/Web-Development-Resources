@@ -22,12 +22,14 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 
 6\. Adding Images using Mediacrush or Github Software 
 
-### something
+### Add Forums, Social Media Buttons, and Live Support
 
 7\. adding "Like" buttons
 
 8\. adding forum using a plug-in
 
 9\. adding Olark (if you website needs it) for customer service
+
+### Finally, adding a payment button
 
 10\. Adding Paypal or Amazon Payment Button
