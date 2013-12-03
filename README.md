@@ -12,7 +12,11 @@ The aim is to provide an organized list of apropos FOSS resources, for getting b
 
 ## Usage
 
+### 01-Tutorial-Website-Creation-Workflow
+
 * The first sequence [01-Tutorial-Website-Creation-Workflows](01-Tutorial-Website-Creation-Workflows) aims to provide all the tools for creating a professional business site or blog.
+
+### 02-Optimization_Loading-Speed-and-SEO
 
 * The second sequence [02-Optimization_Loading-Speed-and-SEO](02-Optimization_Loading-Speed-and-SEO) will show how to optimize your site and SEO once it is created.
 
