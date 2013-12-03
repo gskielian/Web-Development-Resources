@@ -1,5 +1,4 @@
 
-
 ## Creating a Business Website in 10 easy steps!
 
 Guide to making a professional website which is mobile-tablet-desktop viewable quickly and with FOSS:
@@ -51,7 +50,7 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 This is a step towards organizing the web-dev-resources for logical development strategy.
 
 
-In Progress:
+### In Progress:
 
 
 [ ] finish remaining steps
