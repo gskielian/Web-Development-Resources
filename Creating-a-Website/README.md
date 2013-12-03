@@ -8,10 +8,13 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 
 ### Creating and Styling your Mobile Ready Site:
 
-1. Choose a Website-Template
-2. Utilizing Tools to see **how site looks** and **how it loads** with on different platforms
-3. Modifying Titles and Content in HTML
-4. Choosing a [Subtle](http://subtlepatterns.com/) background or using Backstretch.js
+1\. Choose a Website-Template
+
+2\. Utilizing Tools to see **how site looks** and **how it loads** with on different platforms
+
+3\. Modifying Titles and Content in HTML
+
+4\. Choosing a [Subtle](http://subtlepatterns.com/) background or using Backstretch.js
 
 ### Adding Images
 
