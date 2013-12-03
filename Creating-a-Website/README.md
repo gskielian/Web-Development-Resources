@@ -1,3 +1,16 @@
+## TODO
+
+This is a work in organizing the web-dev-resources for logical development strategy.
+
+In Progress:
+
+[ ] finish remaining steps
+[ ] step 5
+[ ] step 6
+[ ] step 7 
+[ ] step 10
+
+
 ## Creating a Business Website in 10 easy steps!
 
 Guide to making a professional website which is mobile-tablet-desktop viewable quickly and with FOSS:
