@@ -1,7 +1,10 @@
+Adding Like Buttons
+===================
+
 Code generation is handled by these pages, just enter your information and paste them in:
 
-https://developers.facebook.com/docs/plugins/like-button/
-
-https://about.twitter.com/resources/buttons#tweet
-
-https://developers.google.com/+/web/+1button/
+| Site | Link |
+| :--- | :---: |
+| facebook | [link](https://developers.facebook.com/docs/plugins/like-button/) |
+| twitter | [link](https://about.twitter.com/resources/buttons#tweet) |
+| google+ | [link](https://developers.google.com/+/web/+1button/) |
