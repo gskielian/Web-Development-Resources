@@ -3,7 +3,9 @@
 Guide to making a professional website which is mobile-tablet-desktop viewable quickly and with FOSS:
 
 
-### Creating and Styling your Mobile Ready Site:
+---
+
+### 1-4: Creating and Styling your Mobile Ready Site:
 
 1\. Choose a Website-Template
 
@@ -13,14 +15,18 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 
 4\. Choosing a [Subtle](http://subtlepatterns.com/) background or using Backstretch.js
 
-### Adding Images
+---
+
+### 5-6: Adding Images
 
 
 5\. Using Gimp/Photoshop to create Images.
 
 6\. Adding Images using Mediacrush, S3, or Github Software 
 
-### Add Forums, Social Media Buttons, and Live Support
+---
+
+### 7-9: Add Forums, Social Media Buttons, and Live Support
 
 7\. adding "Like" buttons
 
@@ -28,6 +34,10 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 
 9\. adding Olark (if you website needs it) for customer service
 
-### Finally, adding a payment button
+---
+
+
+
+### Most Epic Step: adding a donate/payment button
 
 10\. Adding Paypal or Amazon Payment Button
