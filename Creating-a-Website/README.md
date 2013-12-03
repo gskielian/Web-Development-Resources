@@ -1,3 +1,6 @@
+Creating a Professional Looking Mobile-Ready Website
+==============================================
+
 In this folder, find resources which are fundamental for making most websites:
 
 
@@ -18,9 +21,10 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 
 ### Adding Images
 
+
 5\. Using Gimp/Photoshop to create Images.
 
-6\. Adding Images using Mediacrush or Github Software 
+6\. Adding Images using Mediacrush, S3, or Github Software 
 
 ### Add Forums, Social Media Buttons, and Live Support
 
