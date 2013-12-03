@@ -1,7 +1,7 @@
 In this folder, find resources which are fundamental for making most websites:
 
 
-Guide to making a professional looking mobile-tablet-desktop viewable website quickly:
+Guide to making a professional website which is mobile-tablet-desktop viewable quickly and with FOSS:
 
 1. Choose a Website-Template
 2. Modifying Titles and Content in HTML
@@ -10,3 +10,6 @@ Guide to making a professional looking mobile-tablet-desktop viewable website qu
 5. Adding images to your site on localhost
 6. adding "Like" buttons
 7. adding forum using a plug-in
+8. adding Olark (if you website needs it) for customer service
+
+
