@@ -5,7 +5,7 @@ Web-Development-Resources
 
 **The aim** is to provide an organized list of apropos FOSS resources, for getting beginning and novice web-developers's sites on their feet.
 
-\line
+~~
 
 ### Usage:
 
