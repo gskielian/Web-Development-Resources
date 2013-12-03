@@ -1,24 +1,4 @@
-## TODO
 
-This is a work in organizing the web-dev-resources for logical development strategy.
-
-
-In Progress:
-
-
-[ ] finish remaining steps
-
-[ ] step 5
-
-[ ] step 6
-
-[ ] step 7 
-
-[ ] step 10
-
-[ ] add hyperlinks from the list below to each of the .md files
-
-[ ] create an online checklist with persistence
 
 
 ## Creating a Business Website in 10 easy steps!
@@ -64,3 +44,27 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 ### Most Epic Step: adding a donate/payment button
 
 10\. Adding Paypal or Amazon Payment Button
+
+
+
+## TODO
+
+This is a work in organizing the web-dev-resources for logical development strategy.
+
+
+In Progress:
+
+
+[ ] finish remaining steps
+
+[ ] step 5
+
+[ ] step 6
+
+[ ] step 7 
+
+[ ] step 10
+
+[ ] add hyperlinks from the list below to each of the .md files
+
+[ ] create an online checklist with persistence
