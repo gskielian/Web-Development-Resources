@@ -2,7 +2,9 @@
 
 This is a work in organizing the web-dev-resources for logical development strategy.
 
+
 In Progress:
+
 
 [ ] finish remaining steps
 
@@ -13,6 +15,10 @@ In Progress:
 [ ] step 7 
 
 [ ] step 10
+
+[ ] add hyperlinks from the list below to each of the .md files
+
+[ ] create an online checklist with persistence
 
 
 ## Creating a Business Website in 10 easy steps!
