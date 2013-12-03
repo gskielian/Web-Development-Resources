@@ -1,6 +1,5 @@
 
 
-
 ## Creating a Business Website in 10 easy steps!
 
 Guide to making a professional website which is mobile-tablet-desktop viewable quickly and with FOSS:
@@ -45,11 +44,11 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 
 10\. Adding Paypal or Amazon Payment Button
 
-
+---
 
 ## TODO
 
-This is a work in organizing the web-dev-resources for logical development strategy.
+This is a step towards organizing the web-dev-resources for logical development strategy.
 
 
 In Progress:
