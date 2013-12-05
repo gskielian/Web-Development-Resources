@@ -28,7 +28,3 @@ Below are some great templates/starting-points to _bootstrap_ your own site.
 | Ionic | [link](http://ionicframework.com/examples/) | [link](https://github.com/driftyco/ionic) | html5 + angular framework |  
 
 
-
-## CSS3 
-
-http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/
