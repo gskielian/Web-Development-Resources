@@ -6,6 +6,9 @@ I use this repository for compiling lists of free-and-open-source resources for 
 Below are some great templates/starting-points to _bootstrap_ your own site.
 
 
+** If this is your first site I highly recommend chosing a full-site-template from Start Bootstrap ** 
+
+
 
 ## Free Bootstrap Templates
 
