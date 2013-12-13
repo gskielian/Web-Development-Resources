@@ -9,6 +9,7 @@ Use [glyphsearch.com](http://glyphsearch.com) to help you search for that perfec
 ### Many Options
 | Icon Library | Link | Description |
 | :---:        | :---:| :--- |
+| IcoMoon | [link](http://icomoon.io/app/#/select) | some free icons which you can choose individually |
 | Ikons | [link](http://ikons.piotrkwiatkowski.co.uk/) | free vector icons |
 | Ionicons | [link](http://ionicons.com/) | open-source font-library |
 | Simple-icons | [link](https://github.com/danleech/simple-icons) | another great free icon library |
