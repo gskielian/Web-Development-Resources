@@ -18,7 +18,7 @@ Below are some great templates/starting-points to _bootstrap_ your own site.
 | Black-Tie | [examples](http://www.blacktie.co/) | [link](http://www.blacktie.co/) |  really flashy bootstrap templates -- take a look! |
 | Twitter Bootstrap | [examples](http://getbootstrap.com/getting-started/) | [link](https://github.com/twbs/bootstrap) | some basic bootstrap templates from twitter |
 | Flat UI | [example](http://designmodo.github.io/Flat-UI/) | [link](https://github.com/designmodo/Flat-UI) | bootstrap with a stylish theme |
-
+| bijou | [example](http://andhart.github.io/bijou/) | [link](http://andhart.github.io/bijou/) | really small css framework |
 
 ## Foundation Templates
 | Developer | examples | github page| short description |
