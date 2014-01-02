@@ -1,4 +1,4 @@
-## Creating a Business Website in 10 easy steps!
+## Creating a Website in 10 easy steps!
 
 Guide to making a professional website which is mobile-tablet-desktop viewable quickly and with FOSS:
 
@@ -26,7 +26,9 @@ Guide to making a professional website which is mobile-tablet-desktop viewable q
 
 ---
 
-### 7-9: Add Forums, Social Media Buttons, and Live Support
+### 7-9: Adding Blogs, Comment Sections, Social Media Buttons, and Live Support
+
+6\. customizing css: http://www.pearsonified.com/typography/
 
 7\. adding Social Media (facebook "Like", tweet, google+) buttons
 
